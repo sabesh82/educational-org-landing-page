@@ -1,12 +1,44 @@
-# React + Vite
+# 📚 Pages_Of_Promise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+pages_of_promise is a landing page built to spread the joy of reading and make quality books accessible to underserved communities. Through book donation drives, reading programs, and educational outreach, we aim to unlock worlds of imagination — one page at a time.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Hero Section** – Eye-catching introduction with a meaningful tagline.
+- **About Section** – Highlights who we are, our mission, and what we do.
+- **Services Section** – Displays key services like book distribution, reading events, and literacy programs.
+- **Testimonials** – Community feedback showcasing impact.
+- **Contact Section** – Responsive form for visitors to get in touch.
+- **Partner Logos** – Marquee animation showcasing supporting book brands.
+- **Fully Responsive** – Optimized layout for all devices using Tailwind CSS.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React.js
+- **Styling**: Tailwind CSS
+- **Assets**: PNG/JPG logos and hero images
+
+
+
+
+# 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+https://github.com/sabesh82/educational-org-landing-page.git
+cd educational-org-landing-page
+````
+### 2. Install dependencies
+```bash
+npm install
+# or
+yarn install
+```
+
+### 3. Run the development server
+```bash
+npm run dev
+```
+
+
+
