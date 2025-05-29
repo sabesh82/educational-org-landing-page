@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+html,
+body {
+  font-family: "Space Grotesk", sans-serif;
+  background: black;
+  color: white;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
+
+.uneven-blend {
+  -webkit-mask-image: linear-gradient(to bottom, black 70%, transparent 100%);
+  mask-image: linear-gradient(to bottom, black 70%, transparent 100%);
+}
