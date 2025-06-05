@@ -40,5 +40,8 @@ yarn install
 npm run dev
 ```
 
+---
+
+### Made with ❤️ by Sabesh (https://github.com/sabesh82)
 
 
