@@ -4,7 +4,7 @@ pages_of_promise is a landing page built to spread the joy of reading and make q
 
 ## 🔗 Live Demo
 
-Check out the live version of this project hosted on Vercel:  [Live Demo](educational-org-landing-page-4d49.vercel.app)
+Check out the live version of this project hosted on Vercel:  [Live Demo](https://educational-org-landing-page-4d49.vercel.app)
 
 ## 🚀 Features
 
