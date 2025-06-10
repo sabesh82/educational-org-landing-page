@@ -2,6 +2,10 @@
 
 pages_of_promise is a landing page built to spread the joy of reading and make quality books accessible to underserved communities. Through book donation drives, reading programs, and educational outreach, we aim to unlock worlds of imagination — one page at a time.
 
+## 🔗 Live Demo
+
+Check out the live version of this project hosted on Vercel:  [Live Demo](educational-org-landing-page-4d49.vercel.app)
+
 ## 🚀 Features
 
 - **Hero Section** – Eye-catching introduction with a meaningful tagline.
