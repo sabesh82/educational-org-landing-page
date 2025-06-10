@@ -9,7 +9,7 @@ const Services = () => {
       <div className=" grid grid-cols-1 md:grid-cols-2 px-2 max-w-6xl mx-auto">
         <div className="w-full flex items-center justify-center">
           <img
-            src="/src/assets/services.png"
+            src="/assets/services.png"
             alt="services"
             className="w-[85%] h-[90%] object-cover rounded-2xl mt-15 uneven-blend"
           />

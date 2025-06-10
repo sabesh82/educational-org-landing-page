@@ -34,7 +34,7 @@ const Hero = () => {
         {/* Hero Image */}
         <div className="w-full md:w-1/2 flex justify-center">
           <img
-            src="/src/assets/hero2.jpg"
+            src="/assets/hero2.jpg"
             alt="Book Hero"
             className="w-full max-w-sm md:max-w-md mix-blend-lighten"
           />

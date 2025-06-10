@@ -1,10 +1,10 @@
 import React from "react";
-import logo1 from "../assets/about_logo1.png";
-import logo2 from "../assets/about_logo2.png";
-import logo3 from "../assets/about_logo3.png";
-import logo4 from "../assets/about_logo4.png";
-import logo5 from "../assets/about_logo5.png";
-import logo6 from "../assets/about_logo6.png";
+import logo1 from "../../public/assets/about_logo1.png";
+import logo2 from "../../public/assets/about_logo2.png";
+import logo3 from "../../public/assets/about_logo3.png";
+import logo4 from "../../public/assets/about_logo4.png";
+import logo5 from "../../public/assets/about_logo5.png";
+import logo6 from "../../public/assets/about_logo6.png";
 
 const Logo = () => {
   const logos = [logo1, logo2, logo3, logo4, logo5, logo6];

@@ -41,7 +41,7 @@ const About = () => {
         </div>
         <div className="w-full flex items-center justify-center">
           <img
-            src="src/assets/about1.jpg"
+            src="/assets/about1.jpg"
             alt="About Us"
             className="w-full h-auto object-cover rounded-2xl uneven-blend"
           />
